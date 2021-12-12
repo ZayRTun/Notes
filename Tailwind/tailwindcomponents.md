@@ -1,0 +1,19 @@
+**Home**
+- [Home](../index.md)
+---
+
+# Tailwind Components
+
+## File upload button
+https://play.tailwindcss.com/q3uEDI2Y7B
+```html
+<label>
+    <div class="bg-red-200 w-32 py-2 rounded-md cursor-pointer flex justify-center items-center">
+      <span>
+        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12" /></svg>
+      </span>
+    </div>
+
+    <input class="hidden" type="file" />
+  </label>
+```
