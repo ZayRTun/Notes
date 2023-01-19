@@ -19,6 +19,11 @@ git branch
 git checkout branch-name
 ```
 
+## Publish branch to **GitHub**
+```console
+git push origin branch-name
+```
+
 ## Merge **branch** to **master branch**
 - Fist checkout to **master branch** then:
 ```console

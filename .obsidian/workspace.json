@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "8b930e9d97f68052",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4a968f2ef994dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ee96ce2525136f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/AppBlade.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bec7bd466049a0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83a831acecb0ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5704e01c980a90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e29657529a0d22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e28899c28ce13789",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e801345304c9d691",
+    "type": "split",
+    "children": [
+      {
+        "id": "64dbe619c7fd0c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71b21d3744285b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/AppBlade.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c031fc7a617d06e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/AppBlade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4df8e6afde213f28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e27087e3a8e43565",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/AppBlade.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97ee96ce2525136f",
+  "lastOpenFiles": [
+    "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/AppBlade.md",
+    "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Layouts/PageBlade.md",
+    "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Components/xNavigation.md",
+    "Laravel Tailwind Layouts/Sidebar Layout Collapsed Nav/Components/xNavLink.md",
+    "Flutter/Sidebar.md",
+    "Flutter/Layouts Widgets.md",
+    "Flutter/FlutterAnimationCodes.md",
+    "Flutter/Flutter Basics.md",
+    "Markdown Cheatsheet.md",
+    "Flutter/test.md"
+  ]
+}

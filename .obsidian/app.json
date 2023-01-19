@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "vimMode": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "showFrontmatter": false,
+  "showLineNumber": false
+}

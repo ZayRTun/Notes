@@ -71,6 +71,7 @@ def add():
 `flask.render_template(template_name_or_list, **context)  `  
 *  Renders a template from the template folder with the given context.*
 
+
 Parameters:  
 ```
 template_name_or_list    –      the name of the template to be rendered, or an iterable with 

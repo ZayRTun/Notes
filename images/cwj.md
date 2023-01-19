@@ -2,7 +2,7 @@
 - [Home](../index.md)
 ---
 
-# Image Convertions
+# Image Conversions
 
 Convert an jpg or png to webp
 ```bash

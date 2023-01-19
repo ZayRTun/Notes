@@ -2,7 +2,7 @@
 - [Home](../index.md)
 ---
 
-# Learing Vim
+# Learning Vim
 ## Vim Basics  
 
 ```

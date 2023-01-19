@@ -33,6 +33,18 @@
 - [PDO](Php/pdo.md)
 - [Arrays](Php/arrays.md)
 
+## PHP 8
+- [Null safe operator](Php/nullsafeoperator.md)
+- [Match expressions](Php/matchexpressions.md)
+- [Constructor properties](Php/constructorproperties.md)
+- [Object class](Php/objectclass.md)
+- [Named arguments](Php/namedarguments.md)
+- [String helpers](Php/stringhelpers.md)
+- [Weak maps](Php/weakmaps.md)
+- [Union types](Php/uniontypes.md)
+
+## PHP 8.1
+- [New features](Php/php8-1newfeatures.md)
 
 ## LARAVEL
 - [Installing Php Mysql & Apache](Laravel/installationPhp.md)
@@ -65,6 +77,7 @@
 - [Creating Helper File & Composer](Laravel/helperFileAndComposer.md)
 - [File Storage Headache](Laravel/filestorageheadache.md)
 - [Queues](Laravel/queues.md)
+- [Versions](Laravel/versions.md)
 
 ## Livewire
 - [Binding Directly To Model Properties](Livewire/bindToModel.md)
@@ -126,8 +139,17 @@
 - [Install laravel](Server/installlaravel.md)
 - [File permissions](Server/permissions.md)
 
+## Ngrok
+- [Ngrok](Server/ngrok.md)
+
 ## Server SQL Backup and download
 - [Server SQL back and download](Server/sqlbackup.md)
 
 ## Images and all thats Related
 - [convert webp to jpg or png](images/cwj.md)
+
+## Installing JetBrains Toolbox
+- [Install Toolbox](Misc/toolbox.md)
+
+## Crontab
+- [CronTab](Cron/crontab.md)
